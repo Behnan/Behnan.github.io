@@ -716,6 +716,7 @@ textarea {
   background: #0b0b16;
   text-align: center;
   padding: 4em 0;
+  background: rgba(11, 11, 22, 0.98);
 }
 .footer-icons {
   padding: 1.5em 0;
